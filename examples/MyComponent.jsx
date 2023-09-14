@@ -4,8 +4,8 @@ const MyComponent = (props) => {
   const { children, className } = props
   return (
     <div>
-      <h3>Iframes in React</h3>
-      <iframe src="https://platform.twitter.com/widgets/tweet_button.html"></iframe>
+      <h3>Instruqt Repo Playground</h3>
+      <iframe src="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"></iframe>
     </div>
   )
 }
